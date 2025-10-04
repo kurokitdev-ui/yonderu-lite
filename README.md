@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 Yonderu Lite
+「Yonderu Lite」は、依頼者と代行者をつなぐマッチングアプリのUI開発プロジェクトです。  
+Next.jsを使って構築しています。
 
+## 💻 開発者
+- Takamitsu Kuroki（kurokitdev-ui）
+
+## 🚀 技術スタック
+- Next.js
+- TypeScript
+- Tailwind CSS
 ## Getting Started
 
 First, run the development server:
